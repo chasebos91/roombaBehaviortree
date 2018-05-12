@@ -2,7 +2,6 @@
 *
 * Roomba Behavior Tree: models the behavior of a roomba vacuum utilizing a
 *                       behavior tree structure
-*                       by Chase Bosworth
 *                       Version: Python 3.5
 * Approach: The behavior tree is a directed graph structure who traversal
 *           is dependent on the decorator and composite nodes. This
